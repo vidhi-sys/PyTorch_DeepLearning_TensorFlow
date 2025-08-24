@@ -89,6 +89,7 @@ pip install -r requirements.txt
 ```
 ### Repository Structure
 
+
 pytorch-deep-learning-journey/
 │
 ├── chapter_0_fundamentals/    # Tensor operations & basics
@@ -101,7 +102,7 @@ pytorch-deep-learning-journey/
 ├── datasets/                  # Data storage (git-ignored)
 ├── models/                    # Saved models (git-ignored)
 ├── requirements.txt           # Python dependencies
-└── README.md                 # This file
+└── README.md                  # This file
 
 ### Learning Outcomes
 
@@ -145,4 +146,4 @@ Happy Learning! 🎉
 
 "The beautiful thing about learning is that nobody can take it away from you." - B.B. King
 
-</div> ```
+</div> 
