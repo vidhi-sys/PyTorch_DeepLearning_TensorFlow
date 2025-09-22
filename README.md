@@ -5,9 +5,9 @@
 
 A comprehensive learning repository for mastering deep learning fundamentals with both PyTorch and TensorFlow. This is my hands-on journey through the world of deep learning, covering both major frameworks from basics to practical applications.
 ## What's Cooking in This Cauldron?
-
-<div align="center"> <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Magic Cauldron" width="400" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"> </div>
-
+<div align="center">
+  <img src="https://media.giphy.com/media/3o72FfM5HJydzafgUE/giphy.gif" alt="Training Complete" width="400" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+</div>
 This repo is your ticket to the most exciting deep learning carnival in town! We've got rides, games, and cotton candy for your brain!
 
 Course Links:
